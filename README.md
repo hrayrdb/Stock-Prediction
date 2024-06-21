@@ -99,5 +99,5 @@ Open [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser to view the 
 
 ## <a name="links">🔗 Links</a>
 
-My LinkedIn [here](https://www.linkedin.com/in/hrayr-derbedrossian/)
+Follow Me on Linked in: [LINKED IN](https://www.linkedin.com/in/hrayr-derbedrossian/)
 
