@@ -32,17 +32,14 @@ It calculates a price increase or a decrease based on stock input variables.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- React.js
-- Three.js
-- React Three Fiber
-- React Three Drei
-- Vite
-- Tailwind CSS
-- Node.js
-- Express.js
-- OpenAI
-- Framer Motion
-- Valtio
+- Python
+- scikit-fuzzy
+- NumPy
+- Pandas
+- Matplotlib
+- Flask (for web integration)
+- HTML/CSS/JavaScript (for front-end)
+
 
 ## <a name="features">🔋 Features</a>
 
